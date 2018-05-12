@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37052
     wikipedia: http://en.wikipedia.org/wiki/Luigi_Lanzi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34645#The-History-of-Painting-in-Italy-Vol.-3--13-from-the-Period-of-the-Revival-of-the-Fine-Arts-t_
 gutenberg_bookshelf:
 - Italy
 - Art
